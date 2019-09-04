@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Dmitriy Kharisov](https://up.htmlacademy.ru/htmlcss/26/user/1179751).
-* Наставник: `Дмитрий Мирошниченко`.
+* Наставник: [Дмитрий Мирошниченко](https://htmlacademy.ru/profile/id591417).
 
 ---
 
